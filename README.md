@@ -55,14 +55,14 @@ For Image Picker
 npx expo install expo-image-picker
 ```
 Visit for details about:
-React Native: [react-native](https://reactnative.dev/)
-React Navigation(Stack Navigator): [react-navigation-stack](https://reactnavigation.org/)
-React Navigation(Bottom Tab Navigator): [react-navigation-bottomTab](https://reactnavigation.org/docs/bottom-tab-navigator/)
-Vector Icons : [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-Firebase : [firebase](https://firebase.google.com/)
-Redux: [redux](https://redux.js.org/introduction/getting-started)
-Redux Toolkit: [redux-toolkit](https://redux-toolkit.js.org/introduction/getting-started)
-Async Storage: [async-storage](https://github.com/react-native-async-storage/async-storage)
+React Native: [react-native](https://reactnative.dev/)<br/>
+React Navigation(Stack Navigator): [react-navigation-stack](https://reactnavigation.org/)<br/>
+React Navigation(Bottom Tab Navigator): [react-navigation-bottomTab](https://reactnavigation.org/docs/bottom-tab-navigator/)<br/>
+Vector Icons : [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)<br/>
+Firebase : [firebase](https://firebase.google.com/)<br/>
+Redux: [redux](https://redux.js.org/introduction/getting-started)<br/>
+Redux Toolkit: [redux-toolkit](https://redux-toolkit.js.org/introduction/getting-started)<br/>
+Async Storage: [async-storage](https://github.com/react-native-async-storage/async-storage)<br/>
 Image Picker: [image-picker](https://docs.expo.dev/versions/latest/sdk/imagepicker/)
 
 ## Images
