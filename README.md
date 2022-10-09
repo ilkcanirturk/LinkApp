@@ -54,7 +54,7 @@ For Image Picker
 ```
 npx expo install expo-image-picker
 ```
-Visit for details about:
+### Visit for details about:
 React Native: [react-native](https://reactnative.dev/)<br/>
 React Navigation(Stack Navigator): [react-navigation-stack](https://reactnavigation.org/)<br/>
 React Navigation(Bottom Tab Navigator): [react-navigation-bottomTab](https://reactnavigation.org/docs/bottom-tab-navigator/)<br/>
