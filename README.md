@@ -1,4 +1,5 @@
 <h1 align="center">Link App</h1>
+<h3 align="center">Final Project Of Akbank & Patika.dev React Native Bootcamp</h3>
 <h3 align="center">Made With React Native EXPO</h3>
 
 ## About Project
