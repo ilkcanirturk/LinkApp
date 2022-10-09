@@ -14,7 +14,6 @@ Chat applications have become a part of our lives with the development of techno
 + Redux Toolkit & Redux (For data management.)
 + Async Storage (For local storage.)
 + ImagePicker (Image upload & management.)
-+ React Native Uuid (For create unique id.)
 
 For start with Expo Go (Scan the QR code with phone.)
 ```
