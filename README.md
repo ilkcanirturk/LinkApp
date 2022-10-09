@@ -1,6 +1,6 @@
 <h1 align="center">Link App</h1>
 <h3 align="center">Final Project Of Akbank & Patika.dev React Native Bootcamp</h3>
-<h3 align="center">Made With React Native EXPO</h3>
+<h3 align="center">Made With React Native EXPO CLI</h3>
 
 ## About Project
 Chat applications have become a part of our lives with the development of technology. Link App is a fast and reliable alternative with a clear interface.
